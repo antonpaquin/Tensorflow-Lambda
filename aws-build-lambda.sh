@@ -3,7 +3,7 @@
 # Here: you need to set some parameters for the script
 
 # ROOT_DIR: the directory you cloned to -- $(pwd) will work if you didn't move
-# anything after printing
+# anything after cloning
 ROOT_DIR=""
 
 # SSH_KEY: the "pem" file you got from Amazon
